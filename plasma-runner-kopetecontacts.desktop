@@ -1,0 +1,16 @@
+[Desktop Entry]
+Name=Kopete Contacts (PATCHED)
+Name[pl]=Kontakty Kopete (PATCHED)
+Comment=Search contacts from Kopete
+Comment[pl]=Wyszukuje znajomych w Kopete
+Icon=kopete
+
+X-KDE-ServiceTypes=Plasma/Runner
+Type=Service
+X-KDE-Library=krunner_kopetecontacts
+X-KDE-PluginInfo-Author=Ben Boeckel
+X-KDE-PluginInfo-Email=MathStuf@gmail.com
+X-KDE-PluginInfo-Name=kopetecontacts_runner
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-License=GPLv2
+X-KDE-PluginInfo-EnabledByDefault=true
